@@ -1,1 +1,1 @@
-![8ballers's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gotham&show_icons=true)
+![8ballers's GitHub stats](https://github-readme-stats.vercel.app/api?username=8baller&theme=gotham&show_icons=true)
