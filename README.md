@@ -16,11 +16,6 @@ I design and operate crypto trading infrastructure for derivatives markets:
 - Time-series storage and analytics  
 - Deterministic, async Rust services in production  
 
-Focus is on measurable performance and real capital efficiency, not demos or toy projects.
-
-Current main project: **Derolas**  
-Exploring fragmented liquidity, agent-based execution, and data-driven market making at scale.
-
 ---
 
 ### Stack
