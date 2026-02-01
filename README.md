@@ -1,11 +1,3 @@
-<h2 align="center">Low-Latency Crypto Infrastructure Engineer</h2>
-
-<p align="center">
-Building trading systems where latency, correctness, and PnL matter.
-</p>
-
----
-
 ### About
 
 I design and operate crypto trading infrastructure for derivatives markets:
