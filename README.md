@@ -1,9 +1,53 @@
-Low-latency engineer building crypto trading infrastructure and market-making systems.
+<h2 align="center">Low-Latency Crypto Infrastructure Engineer</h2>
 
-Rust-first. Obsessed with microseconds, deterministic systems, and clean data pipelines. I design and run high-frequency bots, exchange connectors, and analytics stacks across derivatives venues, with a focus on real PnL, not toy benchmarks.
+<p align="center">
+Building trading systems where latency, correctness, and PnL matter.
+</p>
 
-Working on Derolas: fragmented-market liquidity, agent-based strategies, and data-driven execution at scale.
+---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=8ball030&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=8ball030&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=8ball030&layout=compact&theme=github_dark)
+### About
+
+I design and operate crypto trading infrastructure for derivatives markets:
+
+- Low-latency exchange connectors  
+- Real-time market data pipelines  
+- Automated market-making and arbitrage systems  
+- Time-series storage and analytics  
+- Deterministic, async Rust services in production  
+
+Focus is on measurable performance and real capital efficiency, not demos or toy projects.
+
+Current main project: **Derolas**  
+Exploring fragmented liquidity, agent-based execution, and data-driven market making at scale.
+
+---
+
+### Stack
+
+- **Languages:** Rust, Python, SQL  
+- **Core:** Tokio, async systems, lock-free/concurrent data structures  
+- **Data:** Postgres/Timescale, Redis, streaming pipelines  
+- **Infra:** Docker, Linux, distributed microservices  
+- **Domain:** Derivatives, market microstructure, execution logic
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=8ball030&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=8ball030&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=8ball030&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### Contact
+
+For collaboration, trading infrastructure, or exchange-related work:
+
+**8baller@station.codes**
