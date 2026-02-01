@@ -1,6 +1,6 @@
 ### About
 
-I design and operate crypto trading infrastructure for derivatives markets:
+I design and operate crypto trading infrastructure for web3 derivatives markets:
 
 - Low-latency exchange connectors  
 - Real-time market data pipelines  
