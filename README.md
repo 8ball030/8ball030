@@ -23,7 +23,7 @@ I design and operate crypto trading infrastructure for derivatives markets:
 - **Languages:** Rust, Python, SQL  
 - **Core:** Tokio, async systems, lock-free/concurrent data structures  
 - **Data:** Postgres/Timescale, Redis, streaming pipelines  
-- **Infra:** Docker, Linux, distributed microservices  
+- **Infra:** Docker, Linux, distributed microservices, Kubernetes, Nixos, Aws, Gcp
 - **Domain:** Derivatives, market microstructure, execution logic
 
 ---
